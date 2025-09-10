@@ -68,6 +68,3 @@ This project uses the following dependencies:
 - Spring Boot Starter Test
 - Spring Web
 
-## License
-
-This project is licensed under the MIT License.
